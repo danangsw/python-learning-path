@@ -67,3 +67,13 @@ Type    | Public    | Internal  |
 ## Lists
 
 - Lists are very similar to arrays.
+
+## Basic Operators
+
+- Support arimatic operators `+ - * /`
+- Support modulo operator `%`
+- Support power operator `**`
+- Supports multiplying strings to form a string with a repeating sequence `*`
+- Lists can be joined with the addition operators `+`.
+- Just as in strings, Python supports forming new lists with a repeating sequence using the multiplication operator `*`.
+
