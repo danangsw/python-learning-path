@@ -38,3 +38,28 @@ Type    | Public    | Internal  |
 | Local Variables    | `lower_with_under`    |  |
 
 ## Hello, World!
+- Simple syntax. The simplest directive in Python is `print` directive.
+- Two major Python versions, Python 2 and Python 3. We will use Python3.
+- Python uses identation (four spaces) block, instead of curly braces.
+
+## Variable and types
+
+- Assignments can be done on more than one variable "simultaneously" on the same line.
+- Mixing operators between numbers and strings is not supported.
+
+**Numbers**
+
+- Python is completely object-oriented, not "statically typed".
+- Every variable in Python is an object.
+- Python support two types of number - integer and floating - as well as support complex number.
+
+**Strings**
+
+- Strings are defined either with a single quote or a double quotes.
+- The difference between the two is that using double quotes makes it easy to include apostrophes
+- Simple operators can be executeed in number and string.
+- Strings can be concatenated (glued together) with the `+` operator, and repeated with `*`.
+- Put several strings within parentheses `("..." )` to have them joined together.
+- Strings can be indexed (subscripted), with the first character having index `0`. Slicing is also supported.
+- Python string is `immutable`.
+- The built-in function `len()` returns the length of a string.
