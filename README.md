@@ -1,4 +1,4 @@
-# python-learning
+# python-learning-path
 
 Python is a wonderfull and powerfull programming language that easy to use (easy to read and write).
 
@@ -21,5 +21,33 @@ Python can be used on server to create web applications, for handle big data and
 ## About this tutorial
 - This Python learning will focus for handle data science and machine learning.
 - The most recent major version of Python is Python 3 (or Python3), which will use in this tutorial. However, Python 2 (or Python), although will not be updated with anything other security patch, it still quite popular.
-- In this tutorial, Python will be writen in Visual Studio Code which using the [Microsoft Python extension](https://marketplace.visualstudio.com/items?itemName=ms-python.python).
+- In this tutorial, Python will be writen in Visual Studio Code which using the Microsoft Python extension.
     - This [article](https://code.visualstudio.com/docs/languages/python) provide a overview of the capabilities of Python extension for VS Code.
+    - It is possible for you to use any IDE, such as Thonny, Pycharm, Netbeans or Eclipse.
+- In this tutorial, [Conda or Anaconda](https://www.anaconda.com/why-anaconda/), that designed for data science and machine learning workflows, will used as platform package and enviroment manager.
+    - This [tutorial](https://www.digitalocean.com/community/tutorials/how-to-install-anaconda-on-ubuntu-18-04-quickstart) will guide you through installing Anaconda on an Ubuntu 18.04 server.
+    - This [article](https://www.anaconda.com/understanding-conda-and-pip/) provide comparasion between conda and pip.
+
+## How to Learn Python for Data Science [<sup>1</sup>](https://www.dataquest.io/blog/how-to-learn-python-for-data-science-in-5-steps/)
+1. Learn Python fundamentals.
+    - Learn Python programming basic.
+    - Learn the fundamentals of data science.
+    - Use Jupyter Notebook.
+
+2. Practice mini projects.
+    - Build small application.
+    - Work with APIs.
+    - Try web scrabbing with Python.
+
+3. Expand Python's data science libraries.
+    - Numpy.
+    - Pandas.
+    - Matplotlib.
+
+4. Build a data science portfolio.
+    - Combine varying dataset and share unique insights.
+    - Display your portfolio for employers to see.
+
+5. Apply advanced data science techniques.
+    - Create regression, classification, k-means and clustering models.
+    - Create models using live data feeds.
