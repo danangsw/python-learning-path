@@ -63,3 +63,7 @@ Type    | Public    | Internal  |
 - Strings can be indexed (subscripted), with the first character having index `0`. Slicing is also supported.
 - Python string is `immutable`.
 - The built-in function `len()` returns the length of a string.
+
+## Lists
+
+- Lists are very similar to arrays.
