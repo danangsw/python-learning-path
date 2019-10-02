@@ -110,3 +110,29 @@ Type    | Public    | Internal  |
         - The false boolean variable: `False`
 - Unlike the double equals operators `==`, the `is` opererator does not match the values of variables, but the instances it themselves.
 - Using "not" before a boolean expression inverts it.
+
+# Loops
+
+- There are two types of loops in Python, `for` and `while`.
+
+**The `for` loop**
+
+- For loops over a given sequence.
+- For loops can iterate over a sequence of numbers using `range` and `xrange`.
+- Python 3 uses the `range` function, which acts like `xrange`.
+
+**The `while` loop**
+
+- While loops repeat as long as a certain boolean condition is met.
+
+**`break` and `continue` statements**
+
+- `break` is used to exit a loop block.
+- `continue` is used to skip the current block.
+
+**`else` clause for loops**
+
+- Python supports `else` with a loops.
+- When the loop condition of `for` or `while` statement fails then code part in `else` is executed.
+- If `break` statement is executed then `else` block will be skipped.
+- Even any `continue` statement within a loops, the `else` block will be executed.
