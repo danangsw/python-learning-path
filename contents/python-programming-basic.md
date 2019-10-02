@@ -136,3 +136,9 @@ Type    | Public    | Internal  |
 - When the loop condition of `for` or `while` statement fails then code part in `else` is executed.
 - If `break` statement is executed then `else` block will be skipped.
 - Even any `continue` statement within a loops, the `else` block will be executed.
+
+## Functions
+
+- Functions in Python are defined by keyword `def`, following by the function name as the block name.
+- Functions may also receive arguments.
+- Function may return a value to the caller.
