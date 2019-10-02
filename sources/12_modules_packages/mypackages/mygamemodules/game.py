@@ -17,6 +17,7 @@ def play_game():
 
 def main():
     result = play_game()
+    # this can either be visual or textual depending on visual_mode
     draw.draw_game(result)
     pass
 
