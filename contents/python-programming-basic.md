@@ -142,3 +142,11 @@ Type    | Public    | Internal  |
 - Functions in Python are defined by keyword `def`, following by the function name as the block name.
 - Functions may also receive arguments.
 - Function may return a value to the caller.
+
+## Classes and Objects
+
+- Classes are essentially template to create objects.
+- Object are encapsulation of variables and functions into a single entity.
+
+
+## Dictionaries
