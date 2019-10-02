@@ -153,3 +153,18 @@ Type    | Public    | Internal  |
 
 - A dictionary is data type similar with array, but works with keys and values instead of indeces.
 - To remove a specified index, use either one of these `del` or `.pop()` notations
+
+## Modules and Packages
+
+- In programming, a module is a piece of software that has specific functionality.
+- Modules in Python is a simply file with a `.py` extension. The filename will be the name of module.
+- A Python module can have a set of functions, classes or variables defined and implemented.
+    ```bash
+    mygame/
+    mygame/game.py
+    mygame/draw.py
+    ```
+- Modules are imported from other modules using the import command.
+- We may also import the function of modules directly into the main script's namespace, by using the from command.
+- Packages are namespaces which contain multiple packages and modules themselves. They are simply directories, but with a twist.
+- Each package in Python is a directory which **MUST** contain a special file called `__init__.py`. This file can be empty, and it indicates that the directory it contains is a Python package
