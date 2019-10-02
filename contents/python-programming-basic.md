@@ -77,3 +77,14 @@ Type    | Public    | Internal  |
 - Lists can be joined with the addition operators `+`.
 - Just as in strings, Python supports forming new lists with a repeating sequence using the multiplication operator `*`.
 
+## String Formatting
+
+- The `%` operator is used to format a set of variables enclosed in "tuple", together with a format string, with contains normal text with "argument specifiers", like `%d` or `%s`.
+- Any object which is not a string can be formatted using the `%s` operator as well. 
+- Here are some basic argument specifiers you should know:
+    - `%s` - String (or any object with a string representation, like numbers)
+    - `%d` - Integers
+    - `%f` - Floating point numbers
+    - `%.<number of digits>f` - Floating point numbers with a fixed amount of digits to the right of the dot.
+    - `%x` or `%X` - Integers in hex representation (lowercase/uppercase)
+
