@@ -88,3 +88,8 @@ Type    | Public    | Internal  |
     - `%.<number of digits>f` - Floating point numbers with a fixed amount of digits to the right of the dot.
     - `%x` or `%X` - Integers in hex representation (lowercase/uppercase)
 
+## Basic String Operations
+
+- Strings are bits of text. 
+- Python string is a array object, Python (and most other programming languages) start index at 0 instead of 1.
+- Python string supports the extended slice syntax. The general form is `strings[start:stop:step]`.
