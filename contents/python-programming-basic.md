@@ -150,3 +150,6 @@ Type    | Public    | Internal  |
 
 
 ## Dictionaries
+
+- A dictionary is data type similar with array, but works with keys and values instead of indeces.
+- To remove a specified index, use either one of these `del` or `.pop()` notations
