@@ -108,3 +108,5 @@ Type    | Public    | Internal  |
         - An empty list: `[]` 
         - The number zero: `0` 
         - The false boolean variable: `False`
+- Unlike the double equals operators `==`, the `is` opererator does not match the values of variables, but the instances it themselves.
+- Using "not" before a boolean expression inverts it.
